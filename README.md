@@ -138,11 +138,11 @@ Below are the screenshots of the UML diagrams used in the project:
 
 | **No.** | **Name**          | **Student ID**    | **Role** |
 | ------- | ----------------- | ----------------- | -------- |
-| 1       | Fillimon G/Tsadik | UGR/178838/12     | Member   |
-| 2       | Henok Mekonnen    | UGR/179052/12     | Member   |
-| 3       | Brhina Wubet      | UGR/170168/12     | Member   |
-| 4       | Mesele Shishay    | UGR/178259/12     | Member   |
-| 5       | Mebrahtom G/Hiwot | EITM/TUR181590/16 | Member   |
+| 1       | Getachew Ekubay    | eitm/ur170294/12       | Member   |
+| 2       | Mlaw G/michael     | eitm/ur178375/12       | Member   |
+| 3       | Meron Kidane       | ugr/1783113/12         | Member   |
+| 4       | Atsbeha Tesfay     | eitm/ur170204/12       | Member   |
+| 5       | Mikiyas Mengesha   | ugr/178746/12          | Member   |
 
 ## License
 
